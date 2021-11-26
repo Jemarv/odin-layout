@@ -1,2 +1,2 @@
 # odin-layout
-top "holy grail" layout exercise
+top basic layout structuring exercise
